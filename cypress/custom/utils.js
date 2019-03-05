@@ -1,0 +1,1 @@
+export const testFunc = function testFunc() { console.log('Hello Cypress') }
